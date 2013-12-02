@@ -1,10 +1,5 @@
 {
     "schema_version": "2.0",
-    "packages": [
-        {
-            "name": "Perforce (Zillow)",
-            "details": "https://github.com/zillow/Sublime-Text-2-Perforce-Plugin"
-        }
-    ],
+    "packages": [],
     "includes": []
 }
